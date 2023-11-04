@@ -1,6 +1,6 @@
 # TS-Series
 
-I desine esolangs whose names start with T and S.
+I design esolangs whose names start with T and S.
 
 These are esolangs I have maken:
 
